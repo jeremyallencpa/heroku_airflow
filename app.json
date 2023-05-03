@@ -5,7 +5,7 @@
     "airflow"
   ],
   "addons": [
-    "heroku-postgresql:hobby-dev"
+    "heroku-postgresql:mini"
   ],
   "env": {
     "AIRFLOW__CORE__FERNET_KEY": {
